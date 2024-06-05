@@ -53,25 +53,25 @@ Para a montagem do Braço Robótico, foram adquiridos separadamente uma placa de
 
 + ATMEGA 328P (Arduino Uno)
 
-  ![Arduino](https://github.com/jonas4040/Braco-Robotico/imagens/)
+  ![Arduino](https://github.com/jonas4040/Braco-Robotico/blob/main/imagens/arduino.png)
 
 + Placa de Expansão
 
-![Expansao](https://github.com/jonas4040/Braco-Robotico/imagens/)
+![Expansao](https://github.com/jonas4040/Braco-Robotico/blob/main/imagens/expansao.png)
 
 + Braço Robótico em Acrílico
 
-![Braco](https://github.com/jonas4040/Braco-Robotico/imagens/)
+![Braco](https://github.com/jonas4040/Braco-Robotico/blob/main/imagens/braco-robotico-acrilico.png)
 
 
 + Micro Servo Motor
 
-  ![Servo](https://github.com/jonas4040/Braco-Robotico/imagens/)
+  ![Servo](https://github.com/jonas4040/Braco-Robotico/blob/main/imagens/servo.png)
 
 
 + Módulo Joystick
 
-  ![Joystick](https://github.com/jonas4040/Braco-Robotico/imagens/)
+  ![Joystick](https://github.com/jonas4040/Braco-Robotico/blob/main/imagens/joystick.png)
   
 # 3 - Código Fonte
 
