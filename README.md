@@ -75,7 +75,7 @@ Para a montagem do Braço Robótico, foram adquiridos separadamente uma placa de
   
 # 3 - Código Fonte
 
-Segue o link código fonte do projeto: https://github.com/jonas4040/Braco-Robotico/braco-robotico/braco-robotico.ino
+Segue o link código fonte do projeto: https://github.com/jonas4040/Braco-Robotico/blob/main/braco-robotico/braco-robotico.ino
 
 
 ```c
