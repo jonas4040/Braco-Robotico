@@ -72,6 +72,9 @@ Para a montagem do Braço Robótico, foram adquiridos separadamente uma placa de
 + Módulo Joystick
 
   ![Joystick](https://github.com/jonas4040/Braco-Robotico/blob/main/imagens/joystick.png)
+
++ Segue o vídeo de demonstração do funcionamento do braço robótico que encontra-se disponível no Youtube: [![Demo](imagens/video-thumb.jpeg)](https://www.youtube.com/watch?v=hxsSpchtBGg "Braço Demo")
+
   
 # 3 - Código Fonte
 
